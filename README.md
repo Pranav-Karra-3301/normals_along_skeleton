@@ -10,8 +10,8 @@ Extract the medial skeleton of a 3D volume and compute surface normals along tha
 
 ## What is here
 
-- **extractNormals.ipynb** — loads the volume, runs `skeletonize`, smooths with a Gaussian filter, computes normals along the skeleton, and visualizes the result with Plotly.
-- **index.html** — the exported interactive Plotly figure (deployed at the link above).
+- **extractNormals.ipynb**: loads the volume, runs `skeletonize`, smooths with a Gaussian filter, computes normals along the skeleton, and visualizes the result with Plotly.
+- **index.html**: the exported interactive Plotly figure (deployed at the link above).
 
 ## Getting started
 
